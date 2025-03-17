@@ -1,5 +1,36 @@
 # Changelog
 
+## [2.46.1](https://github.com/ellite/Wallos/compare/v2.46.0...v2.46.1) (2025-03-06)
+
+
+### Bug Fixes
+
+* calculation of monthly cost progress graph ([#747](https://github.com/ellite/Wallos/issues/747)) ([77486ec](https://github.com/ellite/Wallos/commit/77486ec92c44b71f69e85b1eafb7f3a98c4a44c1))
+
+## [2.46.0](https://github.com/ellite/Wallos/compare/v2.45.2...v2.46.0) (2025-02-22)
+
+
+### Features
+
+* sorting by category or payment method respects order from the settings page ([51b2272](https://github.com/ellite/Wallos/commit/51b22727bf5656a4a263519b5b56adfe6a2d12be))
+
+
+### Bug Fixes
+
+* access to tmp folder by www-data ([51b2272](https://github.com/ellite/Wallos/commit/51b22727bf5656a4a263519b5b56adfe6a2d12be))
+
+## [2.45.2](https://github.com/ellite/Wallos/compare/v2.45.1...v2.45.2) (2025-02-05)
+
+
+### Bug Fixes
+
+* bug setting main currency for the first registered user ([c43b08a](https://github.com/ellite/Wallos/commit/c43b08aa4c45c907f82eb6afe37fd46aa5103654))
+* deprecation message ([c43b08a](https://github.com/ellite/Wallos/commit/c43b08aa4c45c907f82eb6afe37fd46aa5103654))
+* subscription progress above 100% for disabled subscriptions ([c43b08a](https://github.com/ellite/Wallos/commit/c43b08aa4c45c907f82eb6afe37fd46aa5103654))
+* typo on czech translation ([c43b08a](https://github.com/ellite/Wallos/commit/c43b08aa4c45c907f82eb6afe37fd46aa5103654))
+* use first currency on the list of currencies if user has not selected a main currency ([c43b08a](https://github.com/ellite/Wallos/commit/c43b08aa4c45c907f82eb6afe37fd46aa5103654))
+* use gd if imagick is not available ([c43b08a](https://github.com/ellite/Wallos/commit/c43b08aa4c45c907f82eb6afe37fd46aa5103654))
+
 ## [2.45.1](https://github.com/ellite/Wallos/compare/v2.45.0...v2.45.1) (2025-01-28)
 
 
